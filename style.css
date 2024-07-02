@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+
+.text{
+    color: white;
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+}
+
+#samuel{
+    border: 5px solid white;
+    margin-top: 10%;
+}
+
+div{
+    text-align: center;
+}
+
